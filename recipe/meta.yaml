@@ -1,5 +1,5 @@
 {% set name = "bundler" %}
-{% set version = "2.0.2" %}
+{% set version = "2.1.1" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-  sha256: 4c2ae1fce8a072b832ac7188f1e530a7cff8f0a69d8a9621b32d1407db00a2d0
+  sha256: c20e3e7a18de9d99b5919eaaee4dbeecc55ffcbfd08e1807572a618f426fdfc2
 
 build:
   noarch: generic
