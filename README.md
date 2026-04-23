@@ -5,11 +5,13 @@ Home: https://rubygems.org/gems/bundler
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rb-bundler-feedstock/blob/master/LICENSE.txt)
 
 Summary: Bundler manages an application's dependencies through its entire life, across many machines, systematically and repeatably
 
+Development: https://github.com/bundler/bundler
 
+Documentation: https://bundler.io/docs.html
 
 Current build status
 ====================
